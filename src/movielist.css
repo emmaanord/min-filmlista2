@@ -1,6 +1,7 @@
 .container {
   max-width: 600px;
   margin: 0 auto;
+  padding-top: 30px;
 }
 
 button {
@@ -15,5 +16,7 @@ body {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 0px;
 }
