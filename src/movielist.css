@@ -1,5 +1,3 @@
-
-
 .container {
   max-width: 600px;
   margin: 0 auto;
@@ -8,4 +6,14 @@
 button {
   margin: 5px;
   margin-left: 10px;
+}
+
+body {
+  background-color: lightgrey;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
+
+li {
+  margin-bottom: 10px;
 }
